@@ -1,6 +1,3 @@
-# Obsolete
-This Readme is obsolete due to a new kernel version.
-
 # Installation
 
 Copy this files into your linux kernel.
